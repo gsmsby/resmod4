@@ -40,6 +40,7 @@
 #include "stm32l4xx_hal.h"
 #include "arm_math.h"
 
+//adding comment - useless one
 
 /* USER CODE BEGIN Includes */
 
