@@ -80,6 +80,7 @@ static void MX_TIM2_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
+	//ini saja beda branch add_second_adc
 
   /* USER CODE END 1 */
 
